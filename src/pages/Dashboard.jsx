@@ -89,7 +89,7 @@ const Dashboard = () => {
   return (
     <div>
       <h1 style={{ marginBottom: '2rem', fontSize: '2.5rem', textAlign: 'center' }}>
-        User <span style={{ color: 'var(--accent-color)' }}>Directory</span>
+        User Directory <span style={{ color: 'var(--accent-color)' }}>Dashboards</span>
       </h1>
 
       <div className="create-btn-wrapper">
